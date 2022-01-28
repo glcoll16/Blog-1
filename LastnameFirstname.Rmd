@@ -24,9 +24,10 @@ Follow these links and read through the advice given, then
 Write a blog post answering the following questions: 
 
 2. **Document which question you answered (link to your answer).**
-
+https://stackoverflow.com/a/70887540/18052969
 3. **Relate your experience of answering the question to your reading. **
  
+ This question was difficult to fully answer because the person who wrote the question did not provide any data or describe the set-up of the data that they were working with. They also did n't provide any specific error messages they were recieving when they actually ran their code. Thus, when answering the question, I had to give my best guess at what the issue was, but I couldn't be certain because I didn't have enough information. They also left the title of their post very vauge, which is probably why they didn't get many answers. Answering this post helped show me why it is very important to have a well-wriiten qiestion. 
 
 <!--Go to [https://github.com/Stat585-at-ISU/blog](https://github.com/Stat585-at-ISU/blog) for instructions about how to prepare and submit your blog post.-->
 Instructions to follow.
